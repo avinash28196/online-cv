@@ -36,6 +36,12 @@
       <a href="http://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
     </li>
     {% endif %}
+    
+     {% if sidebar.meduium %}
+    <li class="gitlab"><i class="fab fa-medium"></i>
+      <a href="https://medium.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.medium }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i>
