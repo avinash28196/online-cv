@@ -51,8 +51,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      2 Year's of experiencein Java/JEE developement and an exceptional software enginnering experience in 
-      design and developement of web, client-server environement and enterpise applications using core Java 
+      2 Year's of experiencein Java/JEE development and an exceptional software engineering experience in 
+      design and development of web, client-server environement and enterpise applications using core Java 
       and J2EE techonolgy like Spring MVC, Spring Boot, Hiberante,Java Persistence API, databse management system
       and system developement life cycle.
       
@@ -73,8 +73,8 @@ experiences:
       company: Capgemini,Contractor for Discover Financial Serivces. 
       details: |
         Java application developer at Global payments fraud protection, unit in 
-        Discover financial services. Built an platform for analyst to perform 
-        reviewing and auditing buisness logic that will be deployed into a machine 
+        Discover financial services. Built an platform that helps analyst to review  
+        audit buisness logic which will be deployed into a machine 
         learning model for detecting fraud across discover payments network.
         
         Java Application developer:
