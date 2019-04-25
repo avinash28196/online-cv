@@ -79,11 +79,11 @@ experiences:
         reviewing and auditing buisness logic that will be deployed into a machine 
         learning model for detecting fraud across discover payments network.
         
-        Roles and Responsibilities:
+        Java Application Developer, Roles and Responsibilities:
 
           - Design and implement agile solutions for a complex provisioning management system
           - Responsible for developing and maintaining entities and java bean
-          -	Create java classes that perform field insertion, retrieval and tables synchronization throughout 
+          - Create java classes that perform field insertion, retrieval and tables synchronization throughout 
             various system nodes.
           - Responsible for designing adequate JSP pages and JavaScript validation controls
           - Manage current database and perform updates for new changes required by the GUI
@@ -91,13 +91,11 @@ experiences:
           - Experience with developing and testing REST APIs, CURL, Postman.
           - Git version control for managing the project. 
           
-        ETL Data Developer:
-          
-          Roles and Responsibilities:
-	       
+        ETL Data Developer, Roles and Responsibilities:
+	
           - Maintain and monitor scheduled ETL jobs.
           - Conduct performance tuning / analysis / optimization of reports and SQL
-	      - Scheduling batch jobs to perform ETL Activates 24/7 and proactively monitored it.
+	  - Scheduling batch jobs to perform ETL Activates 24/7 and proactively monitored it.
           - Proactively monitor project schedules, timelines, and key metrics, and assure projects are prioritized and meet required deadlines
           - Analyze and document transactional source systems and existing data warehouse environment.
           - Investigate new data sources and design an integration strategy to include them in the EDW
