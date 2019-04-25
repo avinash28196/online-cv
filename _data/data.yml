@@ -19,7 +19,7 @@ sidebar:
     github: avinash28196
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -99,67 +99,51 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Automatic Image Annotation  Framework
+        link: "https://github.com/avinash28196/Image-Annotation-FrameWork"
+        tagline: "This Annotation Framework involves in identifying and recognising the objects within the given image using predefined neural network learning algorithms and tools."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: A News web app built using React.js deployed on Heroku
+        link: "https://news-outlets.herokuapp.com/"
+        tagline: "This WEb app provides curated headlines categorized by the source such as NY times, CNN and +70 sources and seamlessly integrated and deployed on HEroku server."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Research on Automatic Image Annotation Framework 
+        authors: Avinash Ramesh, Guru Shankar
+        conference: MSRIT Publication, 2017.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java and J2EE 
+        level: 85%
+       
+      - name: Spring Boot framework 
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: React and Redux 
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Bootstrap
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: git version control
+        level: 80%
+      
+      - name: Database and shell scripting
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/avinash28196" target="_blank" rel="nofollow">Aviansh Ramesh</a>
