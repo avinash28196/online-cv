@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -61,11 +61,8 @@ education:
       university: M.S Ramaiah Institute of Technology
       time: 2013 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Strong engineering professional with a Bachelor's degree focused in Information Technology 
+        from M.S Ramaiah Institue of Technolog
 
           
 
@@ -79,7 +76,7 @@ experiences:
         reviewing and auditing buisness logic that will be deployed into a machine 
         learning model for detecting fraud across discover payments network.
         
-        Roles and Responsibilities:
+        Java Application developer:
 
           - Design and implement agile solutions for a complex provisioning management system
           - Responsible for developing and maintaining entities and java bean
@@ -91,7 +88,7 @@ experiences:
           - Experience with developing and testing REST APIs, CURL, Postman.
           - Git version control for managing the project. 
           
-        Roles and Responsibilities:
+        ETL Data developer:
         
           - Maintain and monitor scheduled ETL jobs
           - Conduct performance tuning / analysis / optimization of reports and SQL
@@ -104,9 +101,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I love building things, and writing about how I built them. My desire to create things started since I was a kid, 
+      and has translated into creating things for the web since 2017. I try not to restrict myself when it comes to technology, and strive to constantly learn new things.
+
 
     assignments:
       - title: Automatic Image Annotation  Framework
