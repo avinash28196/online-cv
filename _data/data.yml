@@ -44,7 +44,7 @@ sidebar:
       - item: Running 
         link:
 
-      - item: Tech Blogging 
+      - item: Tech Bloging 
         link: https://medium.com/@avinash28196
 
 career-profile:
@@ -79,8 +79,18 @@ experiences:
         reviewing and auditing buisness logic that will be deployed into a machine 
         learning model for detecting fraud across discover payments network.
         
-  
-	
+        Roles and Responsibilities:
+
+          - Design and implement agile solutions for a complex provisioning management system
+          - Responsible for developing and maintaining entities and java bean
+          -	Create java classes that perform field insertion, retrieval and tables synchronization throughout 
+            various system nodes.
+          - Responsible for designing adequate JSP pages and JavaScript validation controls
+          - Manage current database and perform updates for new changes required by the GUI
+          - Create MySQL and shell scripts for reporting and scheduled tasks (Crontab)
+          - Experience with developing and testing REST APIs, CURL, Postman.
+          - Git version control for managing the project. 
+
 projects:
     title: Projects
     intro: >
