@@ -45,7 +45,7 @@ sidebar:
         link:
 
       - item: Tech Blogging 
-        link:
+        link: https://medium.com/@avinash28196
 
 career-profile:
     title: Career Profile
@@ -90,16 +90,7 @@ experiences:
           - Create MySQL and shell scripts for reporting and scheduled tasks (Crontab)
           - Experience with developing and testing REST APIs, CURL, Postman.
           - Git version control for managing the project. 
-          
-        ETL Data Developer, Roles and Responsibilities:
-          - Maintain and monitor scheduled ETL jobs.
-          - Conduct performance tuning / analysis / optimization of reports and SQL
-          - Proactively monitor project schedules, timelines, and key metrics, and assure projects are prioritized and meet required deadlines
-          - Analyze and document transactional source systems and existing data warehouse environment.
-          - Investigate new data sources and design an integration strategy to include them in the EDW
 	
-
-
 projects:
     title: Projects
     intro: >
